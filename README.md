@@ -1,4 +1,10 @@
 
+Its a dummy application which is shows https://github.com/graphql-compose/graphql-compose-examples/blob/master/examples/northwind/data/json/categories.json, on response to whatever we enter in the textbox
+
+2 options are provided, in the favourite section to employees and orders.json
+
+https://github.com/graphql-compose/graphql-compose-examples/blob/master/examples/northwind/data/json/employees.json and https://github.com/graphql-compose/graphql-compose-examples/blob/master/examples/northwind/data/json/orders.json
+
 ### `npm start`
 
 Runs the app in the development mode.\
